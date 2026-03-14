@@ -1,0 +1,4 @@
+001,Martillo de Carpintero,C1
+002,Bulto de Cemento,C2
+003,Excavadora Hidraulica,C3
+004,Tractor de Obra,C4
