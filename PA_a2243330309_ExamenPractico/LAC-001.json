@@ -1,0 +1,9 @@
+{
+  "manejoFrio": "Requiere Cadena de Frío (Refrigerado)",
+  "folio": "LAC-001",
+  "nombre": "Leche Entera",
+  "categoria": "Abarrotes",
+  "stock": 30,
+  "precio": 25.5,
+  "rutaImagen": "leche.jpg"
+}

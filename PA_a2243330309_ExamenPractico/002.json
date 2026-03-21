@@ -1,0 +1,9 @@
+{
+  "tipoCuidado": "No perecedero (Anaquel)",
+  "folio": "002",
+  "nombre": "frijoles",
+  "categoria": "Abarrotes",
+  "stock": 4,
+  "precio": 15.0,
+  "rutaImagen": "imagenes/imagen 002.png"
+}

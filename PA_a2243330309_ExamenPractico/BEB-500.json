@@ -1,0 +1,9 @@
+{
+  "tipoCarga": "Carga Líquida / Pesada",
+  "folio": "BEB-500",
+  "nombre": "Refresco Cola",
+  "categoria": "Abarrotes",
+  "stock": 100,
+  "precio": 35.0,
+  "rutaImagen": "cola.jpg"
+}

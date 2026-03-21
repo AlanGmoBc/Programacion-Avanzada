@@ -1,0 +1,9 @@
+{
+  "tipoCuidado": "No perecedero (Anaquel)",
+  "folio": "001",
+  "nombre": "arroz",
+  "categoria": "Abarrotes",
+  "stock": 4,
+  "precio": 17.0,
+  "rutaImagen": "imagenes/imagen 001.png"
+}

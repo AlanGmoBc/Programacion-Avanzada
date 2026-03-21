@@ -1,0 +1,9 @@
+{
+  "advertencia": "Químicos (Almacenamiento Aislado)",
+  "folio": "LIM-001",
+  "nombre": "Detergente Líquido",
+  "categoria": "Abarrotes",
+  "stock": 60,
+  "precio": 55.0,
+  "rutaImagen": "detergente.jpg"
+}

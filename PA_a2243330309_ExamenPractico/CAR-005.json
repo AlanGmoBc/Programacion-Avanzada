@@ -1,0 +1,9 @@
+{
+  "conservacion": "Congelados / Frescos",
+  "folio": "CAR-005",
+  "nombre": "Pechuga de Pollo",
+  "categoria": "Abarrotes",
+  "stock": 40,
+  "precio": 95.0,
+  "rutaImagen": "pollo.jpg"
+}

@@ -1,0 +1,9 @@
+{
+  "manejoFrio": "Requiere Cadena de Frío (Refrigerado)",
+  "folio": "072",
+  "nombre": "Leche",
+  "categoria": "Abarrotes",
+  "stock": 2,
+  "precio": 19.0,
+  "rutaImagen": "imagenes/Imagen 072.png"
+}

@@ -1,0 +1,9 @@
+{
+  "tipoCuidado": "No perecedero (Anaquel)",
+  "folio": "003",
+  "nombre": "lentejas",
+  "categoria": "Abarrotes",
+  "stock": 7,
+  "precio": 18.0,
+  "rutaImagen": "imagenes/imagen 003.png"
+}

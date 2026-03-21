@@ -1,0 +1,9 @@
+{
+  "tipoCuidado": "No perecedero (Anaquel)",
+  "folio": "AB-100",
+  "nombre": "Aceite de Oliva",
+  "categoria": "Abarrotes",
+  "stock": 50,
+  "precio": 120.5,
+  "rutaImagen": "aceite.jpg"
+}

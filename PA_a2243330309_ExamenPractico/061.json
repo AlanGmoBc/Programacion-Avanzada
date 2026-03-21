@@ -1,0 +1,9 @@
+{
+  "tipoCarga": "Carga Líquida / Pesada",
+  "folio": "061",
+  "nombre": "refresco de naranja",
+  "categoria": "Abarrotes",
+  "stock": 1,
+  "precio": 27.0,
+  "rutaImagen": "imagenes/imagen 061.png"
+}

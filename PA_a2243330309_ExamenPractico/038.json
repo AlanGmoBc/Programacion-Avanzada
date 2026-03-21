@@ -1,0 +1,9 @@
+{
+  "tipoCarga": "Carga Líquida / Pesada",
+  "folio": "038",
+  "nombre": "coca cola",
+  "categoria": "Abarrotes",
+  "stock": 1,
+  "precio": 34.0,
+  "rutaImagen": "imagenes/imagen 038.png"
+}

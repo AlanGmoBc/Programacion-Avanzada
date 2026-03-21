@@ -1,0 +1,9 @@
+{
+  "tipoCuidado": "No perecedero (Anaquel)",
+  "folio": "004",
+  "nombre": "frijoles bayos",
+  "categoria": "Abarrotes",
+  "stock": 2,
+  "precio": 20.0,
+  "rutaImagen": "imagenes/imagen 004.png"
+}

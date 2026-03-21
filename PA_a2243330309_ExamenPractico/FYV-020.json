@@ -1,0 +1,9 @@
+{
+  "tipoPerecedero": "Perecedero (Venta por peso)",
+  "folio": "FYV-020",
+  "nombre": "Manzana Roja",
+  "categoria": "Abarrotes",
+  "stock": 200,
+  "precio": 45.0,
+  "rutaImagen": "manzana.jpg"
+}
