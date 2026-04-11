@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <motor_activo>sqlserver</motor_activo>
+
+    <db_perfil id="mysql">
+        <host>localhost</host>
+        <nombre_bd>PAVENTA</nombre_bd>
+        <usuario>root</usuario>
+        <password>admin123</password>
+    </db_perfil>
+
+    <db_perfil id="sqlserver">
+        <host>localhost</host>
+        <nombre_bd>PAVENTA</nombre_bd>
+        <usuario>UsuarioPaventa</usuario>
+        <password>Password123!</password>
+    </db_perfil>
+</configuracion>
